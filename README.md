@@ -16,3 +16,5 @@
 <img align ="center" alt = "Css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align ="center" alt = "MySql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perealvees&layout=compact)](https://github.com/perealvees/github-readme-stats)
