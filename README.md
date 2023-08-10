@@ -1,2 +1,2 @@
-Olá, pessoal! Seja bem vindos! 👋
+Olá, pessoal! Sejam bem vindos! 👋
 
