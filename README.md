@@ -6,7 +6,7 @@ Um pouquinho sobre mim nas redes:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/perealvees)
  
 
-![Priscilla GitHub stats](https://github-readme-stats.vercel.app/api?username=perealvees&show_icons=true&theme=dracula&count_private=true)
+![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=perealvees&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia:
 
